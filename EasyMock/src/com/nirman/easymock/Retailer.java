@@ -3,6 +3,7 @@ package com.nirman.easymock;
 public class Retailer {
 
 	private int taxes_in_percent = 10;
+	//Comment for merging
 
 	public int getPriceForProduct(String productId) throws Exception {
 		int price;
